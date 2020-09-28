@@ -4,8 +4,14 @@ Companis creat account and post intern jobs. Then they can see applicant list an
 User can see latest posts or they can search and filter intern jobs by company name, location, field, duration etc...and apply.
 Here are some of the screen shots.
 Frontend is build with material-ui.
-<img src="screenshots/InternOnlineSignUp.png" width='400' height='400'>
-<img src="screenshots/InternOnlineLogin.png" width='400' height='400'>
-<img src="screenshots/InternOnlineList.png" width='400' height='400'>
-<img src="screenshots/InternOnlineHomePage.png" width='400' height='400'>
-<img src="screenshots/InternOnlineBottom.png" width='400' height='400'>
+
+## Signup
+<img src="screenshots/InternOnlineSignUp.png"  height='400'>
+## Login
+<img src="screenshots/InternOnlineLogin.png"  height='400'>
+## Applicant list
+<img src="screenshots/InternOnlineList.png"  height='400'>
+## Home page
+<img src="screenshots/InternOnlineHomePage.png" height='400'>
+## Intern List
+<img src="screenshots/InternOnlineBottom.png"  height='400'>
